@@ -2,14 +2,15 @@
  
 ## Olá 👋
 
-<br/> Estudante de Desenvolvimento Front End :computer:
+<br/> Migrando para a área de **Dados** 📊
 
- :rocket:  &nbsp; **Front End Developer | Assistente de Logística.**
- <br/> :purple_heart: &nbsp; Busco evoluir constantemente.
- <br/> :computer: &nbsp; Minha stack: HTML5, CSS3 e JavaScript.
- <br/> 💬  &nbsp; About me: Sou comunicativa, comprometida, paciente e focada. 
- <br/> :sunglasses: &nbsp; Hobbies:  Assistir séries, estudar, conhecer lugares, fazer caminhadas e aprender sobre novas tecnologias.
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LawiseFortunato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lawise-fortunato)](https://www.linkedin.com/in/lawise-fortunato/) 
+:rocket: &nbsp; **Futura Analista de Dados | Experiência em Administração.**  
+<br/> :bar_chart: &nbsp; Em transição de carreira para a área de Dados, com foco em análise e visualização.  
+<br/> :snake: &nbsp; Ferramentas que uso: **Python, MySQL, Power BI e Google Colab.**  
+<br/> :books: &nbsp; Estudando: Estatística, Limpeza de Dados e BI.  
+<br/> 💬 &nbsp; Sobre mim: Comunicativa, comprometida, curiosa e focada no aprendizado contínuo.  
+<br/> :sunglasses: &nbsp; Hobbies: Estudar, explorar novos lugares, ouvir música, fazer caminhadas e entender como os dados contam histórias.  
+<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LawiseFortunato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lawise-fortunato)](https://www.linkedin.com/in/lawise-fortunato/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lawisegh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lawisegh@gmail.com)](mailto:lawisegh@gmail.com)
 
