@@ -1,6 +1,6 @@
-<h1 align="center"> 👩‍💻 Lawise Fortunato 🚀</h1>
+<h1 align="center"> Lawise Fortunato 💻🐞</h1>
  
-## Olá 👋
+## Olá :)
 
 <br/> Migrando para a área de **Garantia de Qualidade (QA) e Testes de Software** 🧪
 
@@ -9,7 +9,7 @@
 <br/> :computer: &nbsp; Ferramentas que uso: **Postman, Selenium, Cypress, Jira, SQL.**  
 <br/> :books: &nbsp; Estudando: Automação de testes, metodologias ágeis, teste de API e integração contínua.  
 <br/> 💬 &nbsp; Sobre mim: Detalhista, comprometida, curiosa e apaixonada por qualidade de software.  
-<br/> :sunglasses: &nbsp; Hobbies: Estudar, explorar novas tecnologias, ouvir música, caminhar e aprender com desafios técnicos.  
+<br/> :sunglasses: &nbsp; Hobbies: Explorar novas tecnologias e culturas, ciclismo e praia :)
 <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LawiseFortunato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lawise-fortunato/)](https://www.linkedin.com/in/lawise-fortunato/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lawisegh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lawisegh@gmail.com)](mailto:lawisegh@gmail.com)
